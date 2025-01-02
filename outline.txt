@@ -5,3 +5,7 @@ od that he meant a great deal more than that. In consequence I'm inclined to res
 v.chowdaryadithyasai
 
 22BCT0087
+
+now this is for the redoing of the commit 
+
+git commit --amend
